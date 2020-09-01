@@ -1,5 +1,16 @@
 # Changes
 
+## [0.66.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.65.0...v0.66.0) (2020-09-01)
+
+
+### Features
+
+* **all:** auto-regenerate gapics , refs [#2795](https://www.github.com/googleapis/google-cloud-go/issues/2795) [#2791](https://www.github.com/googleapis/google-cloud-go/issues/2791) [#2788](https://www.github.com/googleapis/google-cloud-go/issues/2788) [#2781](https://www.github.com/googleapis/google-cloud-go/issues/2781)
+* **analytics/data:** start generating apiv1alpha ([#2796](https://www.github.com/googleapis/google-cloud-go/issues/2796)) ([e93132c](https://www.github.com/googleapis/google-cloud-go/commit/e93132c77725de3c80c34d566df269eabfcfde93))
+* **video/transcoder:** start generating apiv1beta1 ([#2797](https://www.github.com/googleapis/google-cloud-go/issues/2797)) ([390dda8](https://www.github.com/googleapis/google-cloud-go/commit/390dda8ff2c526e325e434ad0aec778b7aa97ea4))
+* **workflows:** start generating apiv1beta ([#2799](https://www.github.com/googleapis/google-cloud-go/issues/2799)) ([0e39665](https://www.github.com/googleapis/google-cloud-go/commit/0e39665ccb788caec800e2887d433ca6e0cf9901))
+* **workflows/executions:** start generating apiv1beta ([#2800](https://www.github.com/googleapis/google-cloud-go/issues/2800)) ([7eaa0d1](https://www.github.com/googleapis/google-cloud-go/commit/7eaa0d184c6a2141d8bf4514b3fd20715b50a580))
+
 ## [0.65.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.64.0...v0.65.0) (2020-08-27)
 
 
